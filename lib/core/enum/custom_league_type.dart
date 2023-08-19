@@ -1,0 +1,1 @@
+enum CustomLeagueTypeEnum{cup, league}

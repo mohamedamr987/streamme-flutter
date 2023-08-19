@@ -1,0 +1,1 @@
+enum CompetitionType { league, cup }
